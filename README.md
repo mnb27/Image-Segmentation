@@ -3,7 +3,7 @@
 Image segmentation is splitting of a image into multiple segments ( different sets of pixels
 called as blob or super-pixel ) based on some distinctive features . Here we are segmenting
 image into different regions based on pixel color. Human eye can easily distinguish different
-cwolor regions but how we will a computer do ?? There are various algorithms for color
+color regions but how we will a computer do ?? There are various algorithms for color
 image segmentation, we are using EM Algorithm here. Image segmentation is an important
 technique/tool for rapid digital image processing and is used in various machine learning,
 computer vision and deep learning applications.
